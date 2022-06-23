@@ -1,0 +1,77 @@
+IMST:
+	HD_WorkingHours
+	HD_Lic
+	HD_Hols
+	HD_Files
+	
+	
+	
+Ticket_Customer:
+	HD_CustomDataAssign 
+	HD_CustomDataLists 
+	HD_CustomDataSections 
+	HD_CustomDataTabs 
+	HD_CustomFields
+	
+
+	
+	
+
+Users:
+	HD_ADUpdates
+	SavedSearchAssign
+	HD_SavedSearch
+	HD_SavedSearchItems
+	HD_Pref
+	HD_Permissions
+	
+	
+Company:
+	HD_Comp
+	HD_Contact
+	HD_DashReports 
+	HD_Dept
+	
+	
+
+Tickets:
+	HD_Category
+	HD_Ticket
+	Hd_Ticket_Details
+	Hd_Ticket custom data
+	Hd_Ticket Files
+	Hd_Status
+	HD_Audit_Trail
+       *HD_Priority
+	HD_Resolution
+	
+
+reports:
+	HD_Reports
+	HD_ReportFolder
+	HD_Report Permission
+	
+
+*Notifications:
+	HD_Notify
+	HD_Notify_Recip
+	
+
+	
+escalation:
+	HD_Options
+	Hd_Es_Ticket
+	HD_Es_Filter
+	HD_Es_FilterDetail
+	HD_Es_Action
+		
+solutions:
+	HD_Soltuions
+	HD_Solutions_Formated
+	HD_SolutionFiles
+
+Email:
+	HD_Email_Extract_Rules
+	HD_Email_Template
+	
+
